@@ -1,0 +1,1 @@
+We at Xeno tried to make the most compact free executor so everyone even on the lowest-end devices can enjoy exploiting, the executor is fully free with no key as it is a prototype and is currently the best executor in the world.
